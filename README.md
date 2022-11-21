@@ -1,16 +1,46 @@
-### Hi there 👋
+<p href="https://fusionhub.clia.tk" align="center">
+<img src="https://discord.c99.nl/widget/theme-1/568846120650801180.png">
 
-<!--
-**PalmikTV/PalmikTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Warning**
+> This user is an verified idiot.
+  
+> **Pls visit**
+> https://palmik.eu
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+class Attributes(xKian):
+	def __init__(self) -> None:
+	    pass
+	
+	@staticmethod
+	def contact(self) -> tuple:
+	    discord  = "PalmikTV#2720"
+	    
+	    return discord
+	
+	@staticmethod
+	def life(self) -> tuple:
+		langs         = ['German', 'English']
+		age           = None
+		
+		return langs, age
+	
+	@staticmethod
+	def coding(self) -> tuple:
+		langs = {
+			'intermediate': ['nothing lol'],
+			'learning': ['python']
+		}
+		specialities  = ['linux lol]
+		environnement = 'vscode'
+		
+		return langs, specialities, environnement
+	
+
+
+
+```
+
+
+<img src="https://komarev.com/ghpvc/?username=sfx2me&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors">
