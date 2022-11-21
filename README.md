@@ -33,7 +33,7 @@ class Attributes(xKian):
 			'learning': ['python']
 		}
 		specialities  = ['linux lol]
-		environnement = 'vscode'
+		environnement = 'vscode, mobaxterm'
 		
 		return langs, specialities, environnement
 	
@@ -41,6 +41,3 @@ class Attributes(xKian):
 
 
 ```
-
-
-<img src="https://komarev.com/ghpvc/?username=sfx2me&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors">
