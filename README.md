@@ -5,7 +5,7 @@
 > This user is an verified idiot.
   
 > **Pls visit**
-> https://palmik.eu
+> https://www.palmik.eu
 
 
 ```python
@@ -32,7 +32,7 @@ class Attributes(PALMIK):
 			'intermediate': ['nothing lol'],
 			'learning': ['python']
 		}
-		specialities  = ['linux lol]
+		specialities  = ['linux lol']
 		environnement = 'vscode, mobaxterm'
 		
 		return langs, specialities, environnement
