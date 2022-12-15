@@ -9,7 +9,7 @@
 
 
 ```python
-class Attributes(xKian):
+class Attributes(PALMIK):
 	def __init__(self) -> None:
 	    pass
 	
